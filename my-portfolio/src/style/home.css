@@ -30,6 +30,7 @@
   
   .intro-text {
     max-width: 50%;
+    text-align: justify;
   }
   
   .intro h1 {

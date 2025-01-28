@@ -17,6 +17,11 @@
   transition: 0.3s;
 }
 
+span {
+  font-weight: bold;
+  color: white;
+}
+
 
 .link:hover {
     color: #ffffff;
