@@ -1,0 +1,26 @@
+.image-text-link {
+  display: flex;
+  align-items: center;  
+  gap: 1rem;  
+  margin: 0.5rem;
+}
+
+.icon {
+  width: 30px; 
+  height: 30px;
+}
+
+
+.link {
+  text-decoration: none;
+  color: #DDF8E8;
+  transition: 0.3s;
+}
+
+
+.link:hover {
+    color: #ffffff;
+    text-decoration: underline;
+    font-size: 14px;
+    transition: 0.3s;
+}

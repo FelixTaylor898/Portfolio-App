@@ -1,0 +1,58 @@
+  .resume-section {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin: 20px auto; 
+    max-width: 80%; 
+    align-items: center; 
+  }
+  
+  .resume-category {
+    width: 100%; 
+    max-width: 800px; 
+
+  }
+  
+  .category-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #DDF8E8;
+    text-align: center;
+  }
+  
+  .resume-item {
+    width: 100%;
+    max-width: 800px; 
+    padding: 20px;
+    border: 10px solid #DDF8E8;
+    border-radius: 10px;
+    background-color: #2A2D34;
+    color: #DDF8E8;
+    margin-bottom: 25px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    
+  }
+  
+  .role-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .company-school {
+    font-size: 1.2rem;
+  }
+  
+  .location,
+  .dates,
+  .description,
+  .skills {
+    margin: 5px 0;
+    font-size: 1rem;
+  }
+  
+  .skills {
+    font-style: italic;
+    color: #c1f1d5;
+  }
+  

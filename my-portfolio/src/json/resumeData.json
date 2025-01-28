@@ -1,0 +1,79 @@
+{
+    "sections": [
+      {
+        "category": "Education",
+        "roles": [
+          {
+            "roleTitle": "Master of Information Technology",
+            "companySchool": "Virginia Tech",
+            "location": "Blacksburg, VA",
+            "dateStarted": "January 2025",
+            "dateEnded": "December 2026 (Expected)",
+            "description": "Specializing in Software Development.",
+            "skills": ["Java", "Object-Oriented Programming", "Databases", "SQL/MySQL", "Git/GitHub", "Software Development", "Problem Solving", "Algorithms"]
+          },
+          {
+            "roleTitle": "Bachelor of Science, Computer Science",
+            "companySchool": "Jamed Madison University",
+            "location": "Harrisonburg, VA",
+            "dateStarted": "August 2018",
+            "dateEnded": "May 2022",
+            "description": "Graduated cum laude with a GPA of 3.59. Inducted into the International Honor Society for the Computing and Information Disciplines. Minored in Creative Writing.",
+            "skills": ["Java", "C", "Python", "Java Swing", "JavaScript", "React", "SQL/MySQL", "HTML/CSS", "API Development", "Software Development", "Object-Oriented Programming", "Agile Methodology", "Git/GitHub", "Linux/CLI", "IDEs", "Data Structures", "Algorithms", "Collaboration", "Problem Solving"]
+          }
+          
+        ]
+      },
+      {
+        "category": "Experience",
+        "roles": [
+          {
+            "roleTitle": "Full-Stack Developer",
+            "companySchool": "Hexaware Technologies",
+            "location": "Reston, VA",
+            "dateStarted": "June 2022",
+            "dateEnded": "August 2023",
+            "description": "I wrote, tested, debugged, formatted, documented, and optimized both front-end and back-end code. I solved problems found in regular scans, ensuring the code adhered to company standards. Additionally, I participated in regular scrum stand-up meetings and code reviews, collaborating with the team to ensure the successful delivery of high-quality, scalable applications.",
+            "skills": ["Java", "Spring Boot", "TypeScript", "Angular", "SQL/MySQL", "REST APIs", "Agile Methodologies", "Git/BitBucket", "JIRA", "Collaboration", "AWS", "Microsoft Azure", "Problem Solving", "JUnit Testing", "HTML/CSS", "Attention to Detail", "Time Management", "Maven", "Hibernate"]
+          }
+        ]
+      },
+      {
+        "category": "Training",
+        "roles": [
+          {
+            "roleTitle": "Full-Stack Development",
+            "companySchool": "App Academy/HTD Talent",
+            "location": "Moseley, VA",
+            "dateStarted": "May 2024",
+            "dateEnded": "August 2024",
+            "description": "The App Academy training program by HTD Talent helped me sharpen my full-stack development skills through hands-on solo and group projects. I gained experience in both front-end and back-end development, while collaborating with peers and tackling real-world challenges. The program enhanced my ability to work independently and as part of a team, preparing me for a career in full-stack development.",
+            "skills": ["Java", "Spring Boot", "API Development", "JavaScript", "React", "Collaboration", "Git/GitHub", "HTML/CSS", "IDEs", "JUnit Testing", "Maven", "Hibernate", "Docker"]
+          },
+          {
+            "roleTitle": "Full-Stack Development",
+            "companySchool": "Mavericks/Hexavarsity",
+            "location": "Reston, VA",
+            "dateStarted": "June 2022",
+            "dateEnded": "August 2022",
+            "description": "The Mavericks program hosted by Hexavarsity provided in-depth training in full-stack development, focusing on both individual and group projects. TI developed a strong understanding of the full software development process, solving complex problems. The program refined my technical skills and teamwork abilities, equipping me for success in full-stack development.",
+            "skills": ["Java", "Spring Boot", "TypeScript", "Angular", "Git/GitHub", "REST APIs", "Collaboration", "AWS", "Problem Solving", "JUnit Testing", "HTML/CSS", "Maven", "Hibernate"]
+          }
+        ]
+      },
+      {
+        "category": "Volunteering",
+        "roles": [
+          {
+            "roleTitle": "Webmaster & Developer",
+            "companySchool": "Shenandoah Valley Pride Alliance",
+            "location": "Harrisonburg, VA",
+            "dateStarted": "September 2023",
+            "dateEnded": "Present",
+            "description": "I independently designed, developed, deployed, and maintained a website for a non-profit, ensuring it met both functional and aesthetic requirements. Throughout the project, I adhered to best coding practices and accessibility standards, ensuring the website was user-friendly, responsive, and accessible to all users, including those with disabilities.",
+            "skills": ["HTML/CSS", "Ubuntu", "DigitalOcean", "Git/GitHub", "WCAG", "ARIA", "Bootstrap", "Communication", "Creativity", "Problem Solving", "Web Design", "Web"]
+          }
+        ]
+      }
+    ]
+  }  

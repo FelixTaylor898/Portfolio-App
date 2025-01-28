@@ -1,0 +1,114 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #1c1f24; 
+}
+
+a { font-family: Consolas, monaco, monospace !important; 
+  font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
+
+.projects-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #282c34;
+  border-radius: 8px;
+}
+
+.project {
+  border: 10px solid #DDF8E8;
+  padding: 20px;
+  border-radius: 8px;
+  width: 100%;
+  max-width: 900px;
+  background-color: #2A2D34;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.project-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  color: #DDF8E8;
+}
+
+h1 {
+    color: #DDF8E8 !important;
+    padding-top: 1rem;
+}
+
+.project-thumbnail {
+  width: 70px;
+  height: 70px;
+  object-fit: cover;
+}
+
+.project h3 {
+  margin-left: 15px;
+  flex-grow: 1;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.dropdown-icon {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Flip the icon when it's open */
+  .dropdown-icon.flipped {
+    transform: rotate(180deg); 
+  }
+  
+  .project-details {
+    width: 100%;
+    text-align: left;
+    max-height: 0; 
+    opacity: 0; 
+    overflow: hidden; 
+    padding: 0; 
+    transition: max-height 0.3s ease, opacity 0.3s ease, padding 0.3s ease;
+  }
+  
+  .project-details.open {
+    max-height: 500px; 
+    opacity: 1; 
+    padding: 10px; 
+  }
+
+.project-details p {
+  margin: 5px 0;
+  color: #DDF8E8;
+}
+
+.links a {
+  display: inline-block;
+  margin-right: 10px;
+  color: white;
+  font-style: bold;
+  text-decoration: none;
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+.links a:hover {
+  text-decoration: underline;
+  color: #DDF8E8;
+  font-size: 25px;
+  transition: 0.3s;
+}

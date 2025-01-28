@@ -1,0 +1,144 @@
+[
+    {
+      "title": "Shenandoah Valley Pride Alliance Website",
+      "thumbnail": "https://images.emojiterra.com/google/android-pie/512px/1f308.png",
+      "description": "A volunteer project in which I independently designed, developed, and deployed a static website for a non-profit oraganization.",
+      "skills": ["HTML/CSS", "Git/GitHub", "DigitalOcean", "Ubuntu", "Linux", "JavaScript", "WCAG", "ARIA", "Bootstrap", "Web Design", "Web Development", "Visual Studio Code", "GitHub Desktop"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Pride-Site" },
+        { "name": "Website", "url": "https://shenandoahvalleypride.org/" }
+      ]
+    },
+    {
+      "title": "Warrior Clan Randomizer 2.0",
+      "thumbnail": "https://blogclan.katecary.co.uk/wp-content/uploads/2021/12/Goosefeather.NO-8.png",
+      "description": "This project is a randomizer built in React based on a book series called Warriors. It randomizes an entire Clan and allows the user to randomize individual components.",
+      "skills": ["JavaScript", "React", "Bootstrap", "Git/GitHub", "JSON", "HTML/CSS"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/React-Warriors" },
+        { "name": "Video Demo", "url": "https://youtu.be/S_UnbCBxJNk" }
+      ]
+    },
+    {
+      "title": "Pokinator",
+      "thumbnail": "https://pngimg.com/d/pokeball_PNG7.png",
+      "description": "A React-based Pokemon guessing game.",
+      "skills": ["JavaScript", "React", "Git/GitHub", "JSON", "HTML/CSS"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Pokinator-React" },
+        { "name": "Video Demo", "url": "https://youtu.be/izLxOjuBYbg" }
+      ]
+    },
+    {
+      "title": "TBR Sorter 2.0",
+      "thumbnail": "https://png.pngtree.com/png-vector/20231020/ourmid/pngtree-watercolor-library-book-clip-art-png-image_10285452.png",
+      "description": "A React-based book sorting app.",
+      "skills": ["JavaScript", "React", "Git/GitHub", "HTML/CSS"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/React-Books" }
+      ]
+    },
+    {
+      "title": "Full-Stack Pokemon App",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/188/188987.png",
+      "description": "A project where users can create, store, and view Pokemon nicknames and facts.",
+      "skills": ["JavaScript", "React", "Git/GitHub", "SQL", "HTML/CSS"],
+      "links": [
+        { "name": "Back-End Code", "url": "https://github.com/FelixTaylor898/CS347/tree/master/Pokemon" },
+        { "name": "Front-End Code", "url": "        https://github.com/FelixTaylor898/PokemonReact" }
+      ]
+    },
+    {
+      "title": "Wordle",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRMKCslCVgezPzH8FJx8uM8VNsxaQejVQixA&s",
+      "description": "A game of Wordle built in Java.",
+      "skills": ["Java", "Java Swing", "Git/GitHub", "Object-Oriented Programming"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Wordle" },
+        { "name": "Video Demo", "url": "https://www.youtube.com/watch?v=vUy3rqFv9oQ&ab_channel=FelixTaylor" }
+      ]
+    },
+    {
+      "title": "2048",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8a/2048_logo.png",
+      "description": "A game of 2048 built in Java.",
+      "skills": ["Java", "Java Swing", "Git/GitHub", "Object-Oriented Programming"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/2048" },
+        { "name": "Video Demo", "url": "https://youtu.be/eGoOxS9FPUo" }
+      ]
+    },
+    {
+      "title": "Minesweeper",
+      "thumbnail": "https://e7.pngegg.com/pngimages/337/559/png-clipart-minesweeper-computer-icons-bing-maps-video-game-mines-miscellaneous-game-thumbnail.png",
+      "description": "A game of Minesweeper built in Java.",
+      "skills": ["Java", "Java Swing", "Git/GitHub", "Object-Oriented Programming"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Java-Bombs" }
+      ]
+    },
+    {
+      "title": "Resume/Portfolio Site",
+      "thumbnail": "https://png.pngtree.com/png-clipart/20220924/ourmid/pngtree-document-portfolio-png-image_6215067.png",
+      "description": "You are here!",
+      "skills": ["JavaScript", "React", "Git/GitHub", "JSON", "HTML/CSS"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Portfolio-Website" }
+      ]
+    },
+    {
+      "title": "Star Generator",
+      "thumbnail": "https://pngimg.com/d/star_PNG1596.png",
+      "description": "A Java-based project I made for someone. Generates stars based on fictional cultures.",
+      "skills": ["Java", "Java Swing", "Git/GitHub", "Object-Oriented Programming"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Java-Stars" }
+      ]
+    },
+    {
+      "title": "Warrior Clan Randomizer 1.0",
+      "thumbnail": "https://img.warriorcats.com/082e342d-08d4-44e2-846c-1879d8b76e7a.png",
+      "description": "This project is a randomizer built in Java based on a book series called Warriors, similar to the one built in React.",
+      "skills": ["Java", "Java Swing", "Object-Oriented Programming", "Git/GitHub"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Clan-Gen" }
+      ]
+    },
+    {
+      "title": "TBR Sorter 1.0",
+      "thumbnail": "https://freepngimg.com/thumb/book/6-books-png-image-with-transparency-background.png",
+      "description": "A Java-based book sorting app.",
+      "skills": ["Java", "Java Swing", "Object-Oriented Programming", "Git/GitHub"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/TBR" }
+      ]
+    },
+    {
+      "title": "Draklan App",
+      "thumbnail": "https://png.pngtree.com/png-vector/20230814/ourmid/pngtree-king-coerulean-red-dragon-decal-sticker-vector-png-image_6897699.png",
+      "description": "A multifunctional Java app based on a story of mine: view elements, dragon types, calendar info, characters, terminology, generate a corps, and take a personality quiz.",
+      "skills": ["Java", "Java Swing", "Object-Oriented Programming", "Git/GitHub"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Draklans" }
+      ]
+    },
+    {
+      "title": "Holiday Calendar",
+      "thumbnail": "https://images.vexels.com/media/users/3/218030/isolated/preview/4c2c05bba7d45bf4549fa296ed4e0220-happy-holidays-ornament.png",
+      "description": "A static site for creating, storing, and viewing holidays.",
+      "skills": ["HTML/CSS", "JavaScript", "Git/GitHub"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Holidays" }
+      ]
+    },
+    {
+      "title": "Hachi Vampire Quiz",
+      "thumbnail": "https://static.vecteezy.com/system/resources/previews/037/796/585/non_2x/bat-cartoon-character-line-doodle-black-and-white-coloring-page-free-png.png",
+      "description": "A Python-based quiz to determine which type of hachi vampire you are (based on a story of mine).",
+      "skills": ["Python", "Git/GitHub"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Hachi-Python" }
+      ]
+    }
+  ]
+  
