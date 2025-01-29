@@ -81,7 +81,7 @@
       "title": "Resume/Portfolio Site",
       "thumbnail": "https://png.pngtree.com/png-clipart/20220924/ourmid/pngtree-document-portfolio-png-image_6215067.png",
       "description": "You are here!",
-      "skills": ["JavaScript", "React", "Git/GitHub", "JSON", "HTML/CSS"],
+      "skills": ["JavaScript", "React", "Git/GitHub", "JSON", "HTML/CSS", "Linux", "DigitalOcean", "Ubuntu"],
       "links": [
         { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Portfolio-App" }
       ]
