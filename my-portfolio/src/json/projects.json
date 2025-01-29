@@ -19,6 +19,15 @@
       ]
     },
     {
+      "title": "BookWyrm",
+      "thumbnail": "https://png.pngtree.com/png-clipart/20240323/original/pngtree-book-stories-with-dragon-png-image_14661955.png",
+      "description": "A group full-stack project for searching books, writing reviews, and joining book clubs.",
+      "skills": ["Java", "Spring Boot", "React", "HTML/CSS", "Git/GitHub", "SQL", "JavaScript", "Visual Studio Code", "IntelliJ IDEA", "Collaboration", "Object-Oriented Programming"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/BookWyrm-App" }
+      ]
+    },
+    {
       "title": "Warrior Clan Randomizer 2.0",
       "thumbnail": "https://blogclan.katecary.co.uk/wp-content/uploads/2021/12/Goosefeather.NO-8.png",
       "description": "This project is a randomizer built in React based on a book series called Warriors. It randomizes an entire Clan and allows the user to randomize individual components.",
