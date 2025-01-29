@@ -10,6 +10,15 @@
       ]
     },
     {
+      "title": "Writing Tracker App",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Deus_writing.png",
+      "description": "A work-in-progress full-stack daily writing tracker app based on Around the Writer's Block by Rosanne Bane.",
+      "skills": ["Java", "Spring Boot", "React", "HTML/CSS", "Git/GitHub", "SQL", "JavaScript", "Visual Studio Code", "IntelliJ IDEA"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Writing-Tracker-App" }
+      ]
+    },
+    {
       "title": "Warrior Clan Randomizer 2.0",
       "thumbnail": "https://blogclan.katecary.co.uk/wp-content/uploads/2021/12/Goosefeather.NO-8.png",
       "description": "This project is a randomizer built in React based on a book series called Warriors. It randomizes an entire Clan and allows the user to randomize individual components.",
