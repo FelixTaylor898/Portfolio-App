@@ -10,6 +10,15 @@
       ]
     },
     {
+      "title": "Worldbuilding App",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1200px-Earth_Western_Hemisphere_transparent_background.png",
+      "description": "A work-in-progress full-stack worldbuilding app.",
+      "skills": ["Java", "Spring Boot", "React", "HTML/CSS", "Git/GitHub", "SQL", "JavaScript", "Visual Studio Code", "IntelliJ IDEA"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Worldbuilding" }
+      ]
+    },
+    {
       "title": "Writing Tracker App",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Deus_writing.png",
       "description": "A work-in-progress full-stack daily writing tracker app based on Around the Writer's Block by Rosanne Bane.",
@@ -25,6 +34,15 @@
       "skills": ["Java", "Spring Boot", "React", "HTML/CSS", "Git/GitHub", "SQL", "JavaScript", "Visual Studio Code", "IntelliJ IDEA", "Collaboration", "Object-Oriented Programming"],
       "links": [
         { "name": "GitHub", "url": "https://github.com/FelixTaylor898/BookWyrm-App" }
+      ]
+    },
+    {
+      "title": "Save the Cat! Outliner",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/235/235349.png",
+      "description": "This project allows users to outline a novel based on the Save the Cat! beatsheet",
+      "skills": ["JavaScript", "React", "Git/GitHub", "JSON", "HTML/CSS"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Save-the-Cat-Outliner" }
       ]
     },
     {
