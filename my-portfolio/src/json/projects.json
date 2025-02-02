@@ -67,6 +67,15 @@
       ]
     },
     {
+      "title": "Project Randomizer",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/1087/1087815.png",
+      "description": "This project allows users to randomize which project and task to work on, and for how long.",
+      "skills": ["JavaScript", "React", "Git/GitHub", "HTML/CSS"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/project-randomizer" }
+      ]
+    },
+    {
       "title": "TBR Sorter 2.0",
       "thumbnail": "https://png.pngtree.com/png-vector/20231020/ourmid/pngtree-watercolor-library-book-clip-art-png-image_10285452.png",
       "description": "A React-based book sorting app.",
