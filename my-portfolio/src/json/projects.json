@@ -40,7 +40,7 @@
       "title": "Discord Bot",
       "thumbnail": "https://cdn-icons-png.flaticon.com/256/3670/3670157.png",
       "description": "A work-in-progress multi-functional Discord bot utilizing various APIs.",
-      "skills": ["Python", "Git/GitHub"],
+      "skills": ["Python", "Git/GitHub", "Visual Studio Code"],
       "links": [
         { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Muse-Discord-Bot" }
       ]
@@ -109,7 +109,16 @@
       "skills": ["JavaScript", "React", "Git/GitHub", "SQL", "HTML/CSS"],
       "links": [
         { "name": "Back-End Code", "url": "https://github.com/FelixTaylor898/CS347/tree/master/Pokemon" },
-        { "name": "Front-End Code", "url": "        https://github.com/FelixTaylor898/PokemonReact" }
+        { "name": "Front-End Code", "url": "https://github.com/FelixTaylor898/PokemonReact" }
+      ]
+    },
+    {
+      "title": "Python Writing Tracker",
+      "thumbnail": "https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-512.png",
+      "description": "A simple writing tracker application to practice Python and SQLite.",
+      "skills": ["Python", "SQLite", "Git/GitHub"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Python-Writing-Tracker" }
       ]
     },
     {
@@ -205,4 +214,3 @@
       ]
     }
   ]
-  
