@@ -37,6 +37,15 @@
       ]
     },
     {
+      "title": "Discord Bot",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/256/3670/3670157.png",
+      "description": "A work-in-progress multi-functional Discord bot utilizing various APIs.",
+      "skills": ["Python", "Git/GitHub"],
+      "links": [
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Muse-Discord-Bot" }
+      ]
+    },
+    {
       "title": "Save the Cat! Outliner",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/235/235349.png",
       "description": "This project allows users to outline a novel based on the Save the Cat! beatsheet",
