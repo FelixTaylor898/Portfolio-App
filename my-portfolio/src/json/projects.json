@@ -2,11 +2,10 @@
     {
       "title": "Shenandoah Valley Pride Alliance Website",
       "thumbnail": "https://images.emojiterra.com/google/android-pie/512px/1f308.png",
-      "description": "A volunteer project in which I independently designed, developed, and deployed a static website for a non-profit oraganization.",
+      "description": "A volunteer project in which I independently designed, developed, and deployed a website for a non-profit oraganization.",
       "skills": ["HTML/CSS", "Git/GitHub", "DigitalOcean", "Ubuntu", "Linux", "JavaScript", "WCAG", "ARIA", "Bootstrap", "Web Design", "Web Development", "Visual Studio Code", "GitHub Desktop"],
       "links": [
-        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Pride-Site" },
-        { "name": "Website", "url": "https://shenandoahvalleypride.org/" }
+        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Pride-Site" }
       ]
     },
     {
