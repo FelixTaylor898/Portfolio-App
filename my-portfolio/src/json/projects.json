@@ -9,24 +9,6 @@
       ]
     },
     {
-      "title": "Worldbuilding App",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Earth_Western_Hemisphere_transparent_background.png/1200px-Earth_Western_Hemisphere_transparent_background.png",
-      "description": "A work-in-progress full-stack worldbuilding app.",
-      "skills": ["Java", "Spring Boot", "React", "HTML/CSS", "Git/GitHub", "SQL", "JavaScript", "Visual Studio Code", "IntelliJ IDEA"],
-      "links": [
-        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Worldbuilding" }
-      ]
-    },
-    {
-      "title": "Writing Tracker App",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Deus_writing.png",
-      "description": "A work-in-progress full-stack daily writing tracker app based on Around the Writer's Block by Rosanne Bane.",
-      "skills": ["Java", "Spring Boot", "React", "HTML/CSS", "Git/GitHub", "SQL", "JavaScript", "Visual Studio Code", "IntelliJ IDEA"],
-      "links": [
-        { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Writing-Tracker-App" }
-      ]
-    },
-    {
       "title": "BookWyrm",
       "thumbnail": "https://png.pngtree.com/png-clipart/20240323/original/pngtree-book-stories-with-dragon-png-image_14661955.png",
       "description": "A group full-stack project for searching books, writing reviews, and joining book clubs.",
@@ -38,10 +20,19 @@
     {
       "title": "Discord Bot",
       "thumbnail": "https://cdn-icons-png.flaticon.com/256/3670/3670157.png",
-      "description": "A work-in-progress multi-functional Discord bot utilizing various APIs.",
+      "description": "A multi-functional Discord bot utilizing various APIs.",
       "skills": ["Python", "Git/GitHub", "Visual Studio Code"],
       "links": [
         { "name": "GitHub", "url": "https://github.com/FelixTaylor898/Muse-Discord-Bot" }
+      ]
+    },
+    {
+      "title": "Haunted House",
+      "thumbnail":"https://cdn-icons-png.flaticon.com/512/1183/1183745.png",
+      "description": "A text-based puzzle/adventure game.",
+      "skills":["Java", "JavaFX", "Gradle", "IntelliJ IDEA", "HTML/CSS", "Git/GitHub"],
+      "links": [
+        {"name": "GitHub", "url": "https://github.com/FelixTaylor898/Haunted-House"}
       ]
     },
     {
