@@ -47,7 +47,7 @@
     },
     {
       "title": "Warrior Clan Randomizer 2.0",
-      "thumbnail": "https://blogclan.katecary.co.uk/wp-content/uploads/2021/12/Goosefeather.NO-8.png",
+      "thumbnail": "https://www.pngall.com/wp-content/uploads/15/Cartoon-Cat-PNG-Image-File.png",
       "description": "This project is a randomizer built in React based on a book series called Warriors. It randomizes an entire Clan and allows the user to randomize individual components.",
       "skills": ["JavaScript", "React", "Bootstrap", "Git/GitHub", "JSON", "HTML/CSS"],
       "links": [
@@ -160,7 +160,7 @@
     },
     {
       "title": "Warrior Clan Randomizer 1.0",
-      "thumbnail": "https://img.warriorcats.com/082e342d-08d4-44e2-846c-1879d8b76e7a.png",
+      "thumbnail": "https://openclipart.org/image/2000px/331861",
       "description": "This project is a randomizer built in Java based on a book series called Warriors, similar to the one built in React.",
       "skills": ["Java", "Java Swing", "Object-Oriented Programming", "Git/GitHub"],
       "links": [
