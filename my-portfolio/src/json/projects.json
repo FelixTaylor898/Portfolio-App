@@ -10,7 +10,7 @@
     },
     {
       "title": "BookWyrm",
-      "thumbnail": "https://png.pngtree.com/png-clipart/20240323/original/pngtree-book-stories-with-dragon-png-image_14661955.png",
+      "thumbnail": "https://png.pngtree.com/png-clipart/20241213/original/pngtree-dragon-curled-around-a-stack-of-books-clipart-png-image_17808196.png",
       "description": "A group full-stack project for searching books, writing reviews, and joining book clubs.",
       "skills": ["Java", "Spring Boot", "React", "HTML/CSS", "Git/GitHub", "SQL", "JavaScript", "Visual Studio Code", "IntelliJ IDEA", "Collaboration", "Object-Oriented Programming"],
       "links": [
@@ -30,7 +30,7 @@
       "title": "Haunted House",
       "thumbnail":"https://cdn-icons-png.flaticon.com/512/1183/1183745.png",
       "description": "A text-based puzzle/adventure game.",
-      "skills":["Java", "JavaFX", "Gradle", "IntelliJ IDEA", "HTML/CSS", "Git/GitHub"],
+      "skills":["Java", "JavaFX", "Gradle", "IntelliJ IDEA", "HTML/CSS", "Git/GitHub", "Object-Oriented Programming", "JUnit Testing"],
       "links": [
         {"name": "GitHub", "url": "https://github.com/FelixTaylor898/Haunted-House"}
       ]
